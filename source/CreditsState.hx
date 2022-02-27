@@ -50,6 +50,7 @@ class CreditsState extends MusicBeatState
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Android Port'],
 			['patricio montana skr',		    'majigsaw',		    'porter',	 'https://www.youtube.com/channel/UCMr5sqTwZ7CiWFGYF3LcSFA',	'0xFFC30085'],
+                        ['misha',		    'majigsaw',		    'sprites',	 'https://youtube.com/channel/UCjjgTnBqLfHRdZ-WyYpNWGw',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
